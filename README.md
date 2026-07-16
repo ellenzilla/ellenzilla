@@ -30,7 +30,7 @@ I'm a passionate developer focused on building robust backend systems and databa
 *Developed for CFE (Federal Electricity Commission)*
 
 - 📫 How to reach me:
-[LinkedIn](https://linkedin.com/in/ruben-dario-chavarria)
+[LinkedIn](www.linkedin.com/in/rubén-darío-chavarría-ramos-461821220)
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
